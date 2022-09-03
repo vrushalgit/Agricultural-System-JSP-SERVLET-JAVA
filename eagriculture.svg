@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="67 59 743 731" width="676px" height="672px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="86" height="20" x="82" y="320" style="fill:#007;stroke:black;"/>
+   <text width="86" height="20" x="87" y="334" style="fill:#fff;" font-family="Arial" font-size="16px"> tbladmin</text>
+   <rect width="86" height="20" x="82" y="340" style="fill:#aea;stroke:black;"/>
+   <text width="86" height="20" x="87" y="354" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="86" height="20" x="82" y="360" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="87" y="374" style="fill:black;" font-family="Arial" font-size="16px">full_name</text>
+   <rect width="86" height="20" x="82" y="380" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="87" y="394" style="fill:black;" font-family="Arial" font-size="16px">email_id</text>
+   <rect width="86" height="20" x="82" y="400" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="87" y="414" style="fill:black;" font-family="Arial" font-size="16px">mobile_no</text>
+   <rect width="86" height="20" x="82" y="420" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="87" y="434" style="fill:black;" font-family="Arial" font-size="16px">address</text>
+   <rect width="86" height="20" x="82" y="440" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="87" y="454" style="fill:black;" font-family="Arial" font-size="16px">uname</text>
+   <rect width="86" height="20" x="82" y="460" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="87" y="474" style="fill:black;" font-family="Arial" font-size="16px">upass</text>
+   <rect width="86" height="20" x="82" y="480" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="87" y="494" style="fill:black;" font-family="Arial" font-size="16px">created_at</text>
+   <rect width="86" height="20" x="82" y="500" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="87" y="514" style="fill:black;" font-family="Arial" font-size="16px">updated_at</text>
+   <rect width="80" height="20" x="122" y="201" style="fill:#007;stroke:black;"/>
+   <text width="80" height="20" x="127" y="215" style="fill:#fff;" font-family="Arial" font-size="16px"> tblcaptcha</text>
+   <rect width="80" height="20" x="122" y="221" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="127" y="235" style="fill:black;" font-family="Arial" font-size="16px">captcha</text>
+   <rect width="81" height="20" x="435" y="333" style="fill:#007;stroke:black;"/>
+   <text width="81" height="20" x="440" y="347" style="fill:#fff;" font-family="Arial" font-size="16px"> tblcontact</text>
+   <rect width="81" height="20" x="435" y="353" style="fill:#aea;stroke:black;"/>
+   <text width="81" height="20" x="440" y="367" style="fill:black;" font-family="Arial" font-size="16px">contact_id</text>
+   <rect width="81" height="20" x="435" y="373" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="440" y="387" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="81" height="20" x="435" y="393" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="440" y="407" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="81" height="20" x="435" y="413" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="440" y="427" style="fill:black;" font-family="Arial" font-size="16px">mobile</text>
+   <rect width="81" height="20" x="435" y="433" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="440" y="447" style="fill:black;" font-family="Arial" font-size="16px">subject</text>
+   <rect width="81" height="20" x="435" y="453" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="440" y="467" style="fill:black;" font-family="Arial" font-size="16px">message</text>
+   <rect width="81" height="20" x="435" y="473" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="440" y="487" style="fill:black;" font-family="Arial" font-size="16px">created_at</text>
+   <rect width="135" height="20" x="112" y="473" style="fill:#007;stroke:black;"/>
+   <text width="135" height="20" x="117" y="487" style="fill:#fff;" font-family="Arial" font-size="16px"> tblcrops</text>
+   <rect width="135" height="20" x="112" y="493" style="fill:#aea;stroke:black;"/>
+   <text width="135" height="20" x="117" y="507" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="135" height="20" x="112" y="513" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="117" y="527" style="fill:black;" font-family="Arial" font-size="16px">crop_name</text>
+   <rect width="135" height="20" x="112" y="533" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="117" y="547" style="fill:black;" font-family="Arial" font-size="16px">month</text>
+   <rect width="135" height="20" x="112" y="553" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="117" y="567" style="fill:black;" font-family="Arial" font-size="16px">description</text>
+   <rect width="135" height="20" x="112" y="573" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="117" y="587" style="fill:black;" font-family="Arial" font-size="16px">crop_image_name</text>
+   <rect width="135" height="20" x="112" y="593" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="117" y="607" style="fill:black;" font-family="Arial" font-size="16px">crop_image</text>
+   <rect width="135" height="20" x="112" y="613" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="117" y="627" style="fill:black;" font-family="Arial" font-size="16px">created_at</text>
+   <rect width="135" height="20" x="112" y="633" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="117" y="647" style="fill:black;" font-family="Arial" font-size="16px">updated_at</text>
+   <rect width="93" height="20" x="319" y="106" style="fill:#007;stroke:black;"/>
+   <text width="93" height="20" x="324" y="120" style="fill:#fff;" font-family="Arial" font-size="16px"> tblcustomer</text>
+   <rect width="93" height="20" x="319" y="126" style="fill:#aea;stroke:black;"/>
+   <text width="93" height="20" x="324" y="140" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="93" height="20" x="319" y="146" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="160" style="fill:black;" font-family="Arial" font-size="16px">full_name</text>
+   <rect width="93" height="20" x="319" y="166" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="180" style="fill:black;" font-family="Arial" font-size="16px">email_id</text>
+   <rect width="93" height="20" x="319" y="186" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="200" style="fill:black;" font-family="Arial" font-size="16px">mobile_no</text>
+   <rect width="93" height="20" x="319" y="206" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="220" style="fill:black;" font-family="Arial" font-size="16px">gender</text>
+   <rect width="93" height="20" x="319" y="226" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="240" style="fill:black;" font-family="Arial" font-size="16px">city</text>
+   <rect width="93" height="20" x="319" y="246" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="260" style="fill:black;" font-family="Arial" font-size="16px">state</text>
+   <rect width="93" height="20" x="319" y="266" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="280" style="fill:black;" font-family="Arial" font-size="16px">country</text>
+   <rect width="93" height="20" x="319" y="286" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="300" style="fill:black;" font-family="Arial" font-size="16px">pincode</text>
+   <rect width="93" height="20" x="319" y="306" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="320" style="fill:black;" font-family="Arial" font-size="16px">uname</text>
+   <rect width="93" height="20" x="319" y="326" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="340" style="fill:black;" font-family="Arial" font-size="16px">upass</text>
+   <rect width="93" height="20" x="319" y="346" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="360" style="fill:black;" font-family="Arial" font-size="16px">created_at</text>
+   <rect width="93" height="20" x="319" y="366" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="324" y="380" style="fill:black;" font-family="Arial" font-size="16px">updated_at</text>
+   <rect width="188" height="20" x="540" y="351" style="fill:#007;stroke:black;"/>
+   <text width="188" height="20" x="545" y="365" style="fill:#fff;" font-family="Arial" font-size="16px"> tblequipements</text>
+   <rect width="188" height="20" x="540" y="371" style="fill:#aea;stroke:black;"/>
+   <text width="188" height="20" x="545" y="385" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="188" height="20" x="540" y="391" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="545" y="405" style="fill:black;" font-family="Arial" font-size="16px">equipement_name</text>
+   <rect width="188" height="20" x="540" y="411" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="545" y="425" style="fill:black;" font-family="Arial" font-size="16px">equipement_cost_range</text>
+   <rect width="188" height="20" x="540" y="431" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="545" y="445" style="fill:black;" font-family="Arial" font-size="16px">description</text>
+   <rect width="188" height="20" x="540" y="451" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="545" y="465" style="fill:black;" font-family="Arial" font-size="16px">equipement_image_name</text>
+   <rect width="188" height="20" x="540" y="471" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="545" y="485" style="fill:black;" font-family="Arial" font-size="16px">equipement_image</text>
+   <rect width="188" height="20" x="540" y="491" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="545" y="505" style="fill:black;" font-family="Arial" font-size="16px">created_at</text>
+   <rect width="188" height="20" x="540" y="511" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="545" y="525" style="fill:black;" font-family="Arial" font-size="16px">updated_at</text>
+   <rect width="179" height="20" x="521" y="206" style="fill:#007;stroke:black;"/>
+   <text width="179" height="20" x="526" y="220" style="fill:#fff;" font-family="Arial" font-size="16px"> tblinsecticide</text>
+   <rect width="179" height="20" x="521" y="226" style="fill:#aea;stroke:black;"/>
+   <text width="179" height="20" x="526" y="240" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="179" height="20" x="521" y="246" style="fill:none;stroke:black;"/>
+   <text width="179" height="20" x="526" y="260" style="fill:black;" font-family="Arial" font-size="16px">insecticide_name</text>
+   <rect width="179" height="20" x="521" y="266" style="fill:none;stroke:black;"/>
+   <text width="179" height="20" x="526" y="280" style="fill:black;" font-family="Arial" font-size="16px">insecticide_cost_range</text>
+   <rect width="179" height="20" x="521" y="286" style="fill:none;stroke:black;"/>
+   <text width="179" height="20" x="526" y="300" style="fill:black;" font-family="Arial" font-size="16px">description</text>
+   <rect width="179" height="20" x="521" y="306" style="fill:none;stroke:black;"/>
+   <text width="179" height="20" x="526" y="320" style="fill:black;" font-family="Arial" font-size="16px">insecticide_image_name</text>
+   <rect width="179" height="20" x="521" y="326" style="fill:none;stroke:black;"/>
+   <text width="179" height="20" x="526" y="340" style="fill:black;" font-family="Arial" font-size="16px">insecticide_image</text>
+   <rect width="179" height="20" x="521" y="346" style="fill:none;stroke:black;"/>
+   <text width="179" height="20" x="526" y="360" style="fill:black;" font-family="Arial" font-size="16px">created_at</text>
+   <rect width="179" height="20" x="521" y="366" style="fill:none;stroke:black;"/>
+   <text width="179" height="20" x="526" y="380" style="fill:black;" font-family="Arial" font-size="16px">updated_at</text>
+   <rect width="167" height="20" x="352" y="536" style="fill:#007;stroke:black;"/>
+   <text width="167" height="20" x="357" y="550" style="fill:#fff;" font-family="Arial" font-size="16px"> tblpesticide</text>
+   <rect width="167" height="20" x="352" y="556" style="fill:#aea;stroke:black;"/>
+   <text width="167" height="20" x="357" y="570" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="167" height="20" x="352" y="576" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="357" y="590" style="fill:black;" font-family="Arial" font-size="16px">pesticide_name</text>
+   <rect width="167" height="20" x="352" y="596" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="357" y="610" style="fill:black;" font-family="Arial" font-size="16px">pesticide_cost_range</text>
+   <rect width="167" height="20" x="352" y="616" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="357" y="630" style="fill:black;" font-family="Arial" font-size="16px">description</text>
+   <rect width="167" height="20" x="352" y="636" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="357" y="650" style="fill:black;" font-family="Arial" font-size="16px">pesticide_image_name</text>
+   <rect width="167" height="20" x="352" y="656" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="357" y="670" style="fill:black;" font-family="Arial" font-size="16px">pesticide_image</text>
+   <rect width="167" height="20" x="352" y="676" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="357" y="690" style="fill:black;" font-family="Arial" font-size="16px">created_at</text>
+   <rect width="167" height="20" x="352" y="696" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="357" y="710" style="fill:black;" font-family="Arial" font-size="16px">updated_at</text>
+   <rect width="124" height="20" x="109" y="74" style="fill:#007;stroke:black;"/>
+   <text width="124" height="20" x="114" y="88" style="fill:#fff;" font-family="Arial" font-size="16px"> tblsellcrops</text>
+   <rect width="124" height="20" x="109" y="94" style="fill:#aea;stroke:black;"/>
+   <text width="124" height="20" x="114" y="108" style="fill:black;" font-family="Arial" font-size="16px">sell_id</text>
+   <rect width="124" height="20" x="109" y="114" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="128" style="fill:black;" font-family="Arial" font-size="16px">customer_name</text>
+   <rect width="124" height="20" x="109" y="134" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="148" style="fill:black;" font-family="Arial" font-size="16px">email_id</text>
+   <rect width="124" height="20" x="109" y="154" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="168" style="fill:black;" font-family="Arial" font-size="16px">mobile_no</text>
+   <rect width="124" height="20" x="109" y="174" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="188" style="fill:black;" font-family="Arial" font-size="16px">address</text>
+   <rect width="124" height="20" x="109" y="194" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="208" style="fill:black;" font-family="Arial" font-size="16px">crop_name</text>
+   <rect width="124" height="20" x="109" y="214" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="228" style="fill:black;" font-family="Arial" font-size="16px">crop_description</text>
+   <rect width="124" height="20" x="109" y="234" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="248" style="fill:black;" font-family="Arial" font-size="16px">crop_quantity</text>
+   <rect width="124" height="20" x="109" y="254" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="268" style="fill:black;" font-family="Arial" font-size="16px">admin_name</text>
+   <rect width="124" height="20" x="109" y="274" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="288" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="124" height="20" x="109" y="294" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="308" style="fill:black;" font-family="Arial" font-size="16px">created_at</text>
+   <rect width="124" height="20" x="109" y="314" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="114" y="328" style="fill:black;" font-family="Arial" font-size="16px">updated_at</text>
+</svg>
